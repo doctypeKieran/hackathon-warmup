@@ -4,17 +4,29 @@ table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
     width: 100%;
-    margin-top: 50px;
+    margin-top: 60px;
+    height: 400px;
   }
   
-  td, th {
-    border: 1px solid #dddddd;
+  tr, th {
+    border: 2px solid #000000;
     text-align: left;
+    padding: 8px;
+  }
+
+  td {
+    border: 2px solid #000000;
+    text-align: center;
     padding: 8px;
   }
   
   tr:nth-child(even) {
-    background-color: #dddddd;
+    background-color: #000000;
+    color: whitesmoke;
   }
+
+ .white-border th, td {
+    border: 2px solid #949494;
+ }
 
  
