@@ -18,3 +18,7 @@ We each divided ourselves between separate tickets, working on one at a time to 
 For this project, we implemented Bootstrap styles for components and layout, as well as Bootstrap scripts for a responsive, collapsible navbar.
 
 We used custom CSS to apply custom styles such as colour schemes to be shared across all pages.
+
+### Tools Used
+
+For this project, we used Bootstrap for components such as forms and navbars (as well as Bootstrap scripts for a responsive, collapsible navbar).  We used HTML and CSS with selectors to apply custom styles as well as the colour scheme.
