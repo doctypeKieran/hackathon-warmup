@@ -5,3 +5,12 @@
 .about-body {
     background-color: #A8B4A5;
 }
+
+/* -------------------- Media Queries */
+
+@media screen and (max-width: 768px) {
+    .about-main h1,
+    .about-main section {
+        text-align: center;
+    }
+}
