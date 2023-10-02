@@ -12,3 +12,9 @@ Together, we decided on:
     - The colour scheme (courtesy of Jesse the Legend)
 
 We each divided ourselves between separate tickets, working on one at a time to produce a glorious website!
+
+### Tools Used
+
+For this project, we implemented Bootstrap styles for components and layout, as well as Bootstrap scripts for a responsive, collapsible navbar.
+
+We used custom CSS to apply custom styles such as colour schemes to be shared across all pages.
