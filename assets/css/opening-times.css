@@ -1,0 +1,73 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  /* ---------------------------------------------------------------Footer */
+  footer {
+    background-color: black;
+    color: aliceblue;
+    height: 50px;
+    position: absolute;
+    bottom: 0;
+  }
+
+  .footer-text {
+    padding-top: 7px;
+  }
+
+  footer {
+    position: absolute;
+    width: 100%;
+}
+
+.footer-container {
+    padding: 0;
+}
+
+.footer-items {
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    padding-top: 10px;
+}
+
+.footer-items span {
+    font-size: 20px;
+}
+
+.copyright {
+    padding-bottom: 15px;
+    padding-top: 5px;
+}
+
+.footer-list i {
+    font-size: 40px;
+    color: aliceblue;
+}
+
+.footer-list .fa-square-facebook:hover {
+    color: rgba(98, 114, 237, 0.905);
+    transition: 0.5s;
+}
+
+.footer-list .fa-square-twitter:hover {
+    color: rgba(63, 193, 248, 0.905);
+    transition: 0.5s
+}
+
+.footer-list .fa-instagram:hover {
+    color: rgba(159, 25, 208, 0.905);
+    transition: 0.5s;
+}
